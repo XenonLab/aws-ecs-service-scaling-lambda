@@ -1,7 +1,7 @@
 # ECS Service Scale λ
 
-ECS doesn't have away to schedule auto scaling for ECS service. You can use this lambda to schulde event to set desire count for your ECS service.
-This could be used to pause and resume your ECS services on schudle
+ECS doesn't have away to schedule auto scaling for ECS service. You can use this lambda to schulde event to set desire count for your ECS service.  
+This could be used to stop and start your ECS services on schudle.
 
 ## How to use
 1. `$ git clone https://github.com/XenonLab/aws-ecs-service-scaling-lambda.git` or [download zip](https://github.com/XenonLab/aws-ecs-service-scaling-lambda/archive/master.zip).
