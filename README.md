@@ -11,7 +11,7 @@ This could be used to stop and start your ECS services on schedule.
     {
        "cluster": "mycluster",
        "service_name": "myservice",
-       "service_desire_count": "1"
+       "service_desired_count": "1"
     }
     ```
 
